@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# script-hub
+Keep track of all your writings
+>>>>>>> c4df52ccc86843bc13385d666a9d44d893836eb7
